@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/JG.TechLearning.DotnetAspire.ApiService/obj
+/JG.TechLearning.DotnetAspire.AppHost/obj
+/JG.TechLearning.DotnetAspire.ServiceDefaults/obj
+/JG.TechLearning.DotnetAspire.Web/obj/Debug/net8.0
+/.vs
