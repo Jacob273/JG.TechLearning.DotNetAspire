@@ -1,1 +1,1 @@
-"# JG.TechLearning.DotNetAspire" 
+# JG.TechLearning.DotNetAspire
